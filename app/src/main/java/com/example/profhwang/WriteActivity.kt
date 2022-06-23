@@ -11,17 +11,15 @@ import androidx.activity.result.contract.ActivityResultContracts
 import androidx.core.content.ContextCompat
 import com.example.profhwang.databinding.ActivityWriteBinding
 
-class WriteActivity : AppCompatActivity() {
+class WriteActivity : BaseActivity<ActivityWriteBinding>({
+    ActivityWriteBinding.inflate(it) }) {
 
-    private lateinit var binding: ActivityWriteBinding
     private lateinit var pictureAdapter: PictureAdapter
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        binding = ActivityWriteBinding.inflate(layoutInflater)
-        setContentView(binding.root)
 
-        //cameraClickEvent()
+        cameraClickEvent()
     }
 
     private fun cameraClickEvent(){
