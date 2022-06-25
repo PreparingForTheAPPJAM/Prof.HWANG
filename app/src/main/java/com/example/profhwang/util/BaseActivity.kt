@@ -1,4 +1,4 @@
-package com.example.profhwang
+package com.example.profhwang.util
 
 import android.os.Bundle
 import android.view.LayoutInflater

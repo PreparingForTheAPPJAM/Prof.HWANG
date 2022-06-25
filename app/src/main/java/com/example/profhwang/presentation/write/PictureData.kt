@@ -1,4 +1,4 @@
-package com.example.profhwang
+package com.example.profhwang.presentation.write
 
 import android.graphics.Bitmap
 

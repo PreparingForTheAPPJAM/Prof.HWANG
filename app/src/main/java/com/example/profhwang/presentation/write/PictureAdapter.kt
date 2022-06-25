@@ -1,4 +1,4 @@
-package com.example.profhwang
+package com.example.profhwang.presentation.write
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
