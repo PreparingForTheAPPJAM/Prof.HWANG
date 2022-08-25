@@ -3,11 +3,27 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/yjin1/AndroidStudioProjects/ProfHWANG/app/src/main/res/drawable/ic_arrow.xml" value="0.1" />
         <entry key="..\:/Users/yjin1/AndroidStudioProjects/ProfHWANG/app/src/main/res/drawable/ic_camera.xml" value="0.1" />
+        <entry key="..\:/Users/yjin1/AndroidStudioProjects/ProfHWANG/app/src/main/res/drawable/ic_heart_on.xml" value="0.196" />
         <entry key="..\:/Users/yjin1/AndroidStudioProjects/ProfHWANG/app/src/main/res/drawable/ic_img_close.xml" value="0.1" />
+        <entry key="..\:/Users/yjin1/AndroidStudioProjects/ProfHWANG/app/src/main/res/drawable/ic_menu.xml" value="0.1" />
+        <entry key="..\:/Users/yjin1/AndroidStudioProjects/ProfHWANG/app/src/main/res/drawable/ic_share.xml" value="0.1" />
+        <entry key="..\:/Users/yjin1/AndroidStudioProjects/ProfHWANG/app/src/main/res/drawable/ic_smile.xml" value="0.1" />
+        <entry key="..\:/Users/yjin1/AndroidStudioProjects/ProfHWANG/app/src/main/res/drawable/oval_circlegray.xml" value="0.1" />
+        <entry key="..\:/Users/yjin1/AndroidStudioProjects/ProfHWANG/app/src/main/res/drawable/oval_while.xml" value="0.1" />
+        <entry key="..\:/Users/yjin1/AndroidStudioProjects/ProfHWANG/app/src/main/res/drawable/rectangle_blue_3dp.xml" value="0.1" />
+        <entry key="..\:/Users/yjin1/AndroidStudioProjects/ProfHWANG/app/src/main/res/drawable/rectangle_circlegray_3dp.xml" value="0.1" />
+        <entry key="..\:/Users/yjin1/AndroidStudioProjects/ProfHWANG/app/src/main/res/drawable/rectangle_linegray_1dp.xml" value="0.1" />
+        <entry key="..\:/Users/yjin1/AndroidStudioProjects/ProfHWANG/app/src/main/res/drawable/rectangle_orange2_radius4dp.xml" value="0.1" />
+        <entry key="..\:/Users/yjin1/AndroidStudioProjects/ProfHWANG/app/src/main/res/drawable/rectangle_squaregray_3dp.xml" value="0.1" />
+        <entry key="..\:/Users/yjin1/AndroidStudioProjects/ProfHWANG/app/src/main/res/drawable/selector_read_heart.xml" value="0.1" />
+        <entry key="..\:/Users/yjin1/AndroidStudioProjects/ProfHWANG/app/src/main/res/drawable/selector_read_img_circle_indicator.xml" value="0.1" />
         <entry key="..\:/Users/yjin1/AndroidStudioProjects/ProfHWANG/app/src/main/res/drawable/shape_rectangle.xml" value="0.1" />
+        <entry key="..\:/Users/yjin1/AndroidStudioProjects/ProfHWANG/app/src/main/res/layout/activity_read.xml" value="0.25" />
         <entry key="..\:/Users/yjin1/AndroidStudioProjects/ProfHWANG/app/src/main/res/layout/activity_write.xml" value="0.22" />
         <entry key="..\:/Users/yjin1/AndroidStudioProjects/ProfHWANG/app/src/main/res/layout/item_picture_list.xml" value="0.1" />
+        <entry key="..\:/Users/yjin1/AndroidStudioProjects/ProfHWANG/app/src/main/res/layout/read_viewpager_item.xml" value="0.1" />
       </map>
     </option>
   </component>

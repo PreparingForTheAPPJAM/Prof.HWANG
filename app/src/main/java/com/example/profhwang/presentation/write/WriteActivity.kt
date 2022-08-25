@@ -1,8 +1,7 @@
-package com.example.profhwang
+package com.example.profhwang.presentation.write
 
 import android.content.Intent
 import android.content.pm.PackageManager
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.provider.MediaStore
 import android.widget.Toast
@@ -10,6 +9,7 @@ import androidx.activity.result.ActivityResultLauncher
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.core.content.ContextCompat
 import com.example.profhwang.databinding.ActivityWriteBinding
+import com.example.profhwang.util.BaseActivity
 
 class WriteActivity : BaseActivity<ActivityWriteBinding>({
     ActivityWriteBinding.inflate(it) }) {
